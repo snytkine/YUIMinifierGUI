@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<jardesc>
+    <jar path="C:/Lampcms/compressor.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/Compressor2/description.jardesc" exportErrors="false" exportWarnings="true" includeDirectoryEntries="false" overwrite="false" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="true" mainClassHandleIdentifier="=Compressor2/src&lt;com.yahoo.platform.yui.compressor{GuiCompressor.java[GuiCompressor" manifestLocation="/Compressor2/manifest" manifestVersion="1.0" reuseManifest="false" saveManifest="true" usesManifest="true">
+        <sealing sealJar="false">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="false" exportOutputFolder="false">
+        <file path="/Compressor2/ant.properties"/>
+        <file path="/Compressor2/.classpath"/>
+        <file path="/Compressor2/manifest"/>
+        <file path="/Compressor2/.project"/>
+        <javaElement handleIdentifier="=Compressor2/src"/>
+    </selectedElements>
+</jardesc>
